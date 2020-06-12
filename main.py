@@ -274,7 +274,7 @@ def train():
         if im_u_1.size(0) > 0:
 
             size_1 = im_u_1.size(0)
-            print('stream 1: {}'.format(size_1))
+            # print('stream 1: {}'.format(size_1))
 
             t_idx = torch.randperm(im_data_t.size(0))[0:size_1]
             mixed_x = lam * im_data_t[t_idx] + (1-lam) * im_u_1
@@ -298,7 +298,7 @@ def train():
         # stream 2
         if im_u_2.size(0) > 0:
             size_2 = im_u_2.size(0)
-            print('stream 2: {}'.format(size_2))
+            # print('stream 2: {}'.format(size_2))
             s_idx = torch.randperm(im_data_s.size(0))[0:size_2]
             mixed_x = (1-lam) * im_data_s[s_idx] + lam * im_u_2
             y_a, y_b = gt_labels_s[s_idx], psl_u_2
