@@ -1,6 +1,5 @@
 ## MiCo: Mixup Co-training for Semi-supervised Domain Adaptation
 
-<span style="color:blue">some *This is Blue italic.* text</span>
 ### This is a Private Repository. Without consulting the owner, please do not distribute or publish.
 
 ### Requirements
