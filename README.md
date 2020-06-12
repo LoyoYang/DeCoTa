@@ -2,8 +2,7 @@
 
 ### This is a private repository. Without consulting the owner, please do not distribute or publish yet.
 
-![Illustration](https://github.com/LoyoYang/mico/blob/master/comparison.png){:height="50%" width="50%"}
-
+<img src="https://github.com/LoyoYang/mico/blob/master/comparison.png" width="400" height="500">
 
 
 ### Requirements
