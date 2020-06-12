@@ -37,5 +37,7 @@ Checkpoint will be saved at
 
 Example to evaluate a saved model from ```./checkpoint```:
 
-```python main.py --root /vulcan/scratch/luyu/data/datasets/visda --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar```
+```python
+python main.py --root /vulcan/scratch/luyu/data/datasets/visda --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar
+```
 
