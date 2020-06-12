@@ -1,7 +1,7 @@
 ## MiCo: Mixup Co-training for Semi-supervised Domain Adaptation
 
-### <span style="color:blue">some *This is Blue italic.* text</span>
-This is a Private Repository. Without consulting the owner, please do not distribute or publish.
+<span style="color:blue">some *This is Blue italic.* text</span>
+### This is a Private Repository. Without consulting the owner, please do not distribute or publish.
 
 ### Requirements
 The code is developed under Python 3.6.5 and PyTorch 1.4.0
