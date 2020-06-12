@@ -10,7 +10,9 @@ Requirements are listed in requirements.txt
 ### Prepare Dataset
 To reproduce the DomainNet results, download DomainNet from http://ai.bu.edu/M3SDA/ following the instructions on the page.
 
-Your dataset root is expected to contain folders named after all the domains, for example: PATH/TO/DATASET/ROOT/clipart
+Your dataset root is expected to contain folders named after all the domains, for example: 
+
+```PATH/TO/DATASET/ROOT/clipart```
 
 ### Train your own MiCo
 There are 7 adaptation scenraios on DomainNet experiment. Specify the Source and Target domain by either --source XXX --target
