@@ -5,7 +5,8 @@
 ### Requirements
 The code is developed under Python 3.6.5 and PyTorch 1.4.0
 
-Requirements are listed in requirements.txt
+To install,
+```pip install -r requirements.txt```
 
 ### Prepare Dataset
 To reproduce the DomainNet results, download DomainNet from http://ai.bu.edu/M3SDA/ following the instructions on the page.
