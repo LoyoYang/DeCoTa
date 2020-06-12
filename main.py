@@ -118,6 +118,7 @@ pretrain_src_checkpoint = './pretrained_models/pretrained_src_real_to_clipart.pt
 pretrain_t_checkpoint = './pretrained_models/pretrained_tgt_real_to_clipart.pth.tar'.format(args.source, args.target)
 
 if args.net_resume:
+
     p1 = os.path.join(args.checkpath, args.net_resume)
     p2 = os.path.join(args.checkpath, 'Twin' + args.net_resume[3:])
 
