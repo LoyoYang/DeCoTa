@@ -15,6 +15,12 @@ Your dataset root is expected to contain folders named after all the domains, fo
 ```PATH/TO/DATASET/ROOT/clipart```
 
 ### Train your own MiCo
-There are 7 adaptation scenraios on DomainNet experiment. Specify the Source and Target domain by either --source XXX --target
-YYY or 
+There are seven adaptation scenraios on DomainNet experiment.
+
+Specify the Source and Target domain by either
+
+```--source X --target Y``` or ```--st X_Y_index```
+
+```python
 python main.py --root PATH/TO/DATASET/ROOT/ --st SETTING_INDEX
+```
