@@ -21,6 +21,21 @@ Specify the Source and Target domain by either
 
 ```--source X --target Y``` or ```--st X_Y_index```
 
+Example to reproduce the DomainNet 3-shot result, from *Real* to *Clipart* (X_Y_index=1), saving checkpoint:
+
 ```python
-python main.py --root PATH/TO/DATASET/ROOT/ --st SETTING_INDEX
+python main.py --root PATH/TO/DATASET/ROOT/ --st 1 --save_check
 ```
+
+Results will be saved at 
+```./record/multi/mico```
+Checkpoint will be saved at
+```./checkpoint```
+
+
+### Eval
+
+Example to evaluate a saved model from ```./checkpoint```:
+
+```python main.py --root /vulcan/scratch/luyu/data/datasets/visda --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar```
+
