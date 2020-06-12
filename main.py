@@ -114,8 +114,8 @@ record_file = os.path.join(record_dir,
 
 
 """ pre-train & resume """
-pretrain_src_checkpoint = './pretrained_models/pretrained_src_real_to_clipart.pth.tar'.format(args.source, args.target)
-pretrain_t_checkpoint = './pretrained_models/pretrained_tgt_real_to_clipart.pth.tar'.format(args.source, args.target)
+pretrain_src_checkpoint = './pretrained_models/pretrained_src_{}_to_{}.pth.tar'.format(args.source, args.target)
+pretrain_t_checkpoint = './pretrained_models/pretrained_tgt_{}_to_{}.pth.tar'.format(args.source, args.target)
 
 if args.net_resume:
 
