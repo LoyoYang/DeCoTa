@@ -2,7 +2,7 @@
 
 ### This is a private repository. Without consulting the owner, please do not distribute or publish yet.
 
-![Illustration](https://github.com/LoyoYang/mico/blob/master/comparison.png)
+![Illustration](https://github.com/LoyoYang/mico/blob/master/comparison.png | width=300)
 
 
 
