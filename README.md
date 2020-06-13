@@ -19,7 +19,7 @@ Your dataset root is expected to contain folders named after all the domains, fo
 ```PATH/TO/DATASET/ROOT/clipart```
 
 ### Train your own MiCo
-There are seven adaptation scenraios on DomainNet experiment.
+There are seven adaptation scenarios.
 
 Specify the Source and Target domain by either
 
