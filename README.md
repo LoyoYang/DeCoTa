@@ -42,6 +42,6 @@ Checkpoint will be saved at
 Example to evaluate a saved model at iteration 20000 from ```./checkpoint```, from *Real* to *Clipart*:
 
 ```python
-python main.py --root PATH/TO/DATASET/ROOT/ --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar
+python main.py --root PATH-TO-DATASET-ROOT/ --st 1 --eval --net_resume Net_iter_model_mico_real_to_clipart_step_20000.pth.tar
 ```
 
