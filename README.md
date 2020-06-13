@@ -16,7 +16,7 @@ To reproduce the DomainNet results, download DomainNet from http://ai.bu.edu/M3S
 
 Your dataset root is expected to contain folders named after all the domains, for example: 
 
-```PATH/TO/DATASET/ROOT/clipart```
+```PATH-TO-DATASET-ROOT/clipart```
 
 ### Train your own MiCo
 There are seven adaptation scenarios.
@@ -28,7 +28,7 @@ Specify the Source and Target domain by either
 Example to reproduce the DomainNet 3-shot result, from *Real* to *Clipart* (X_Y_index=1), saving checkpoint:
 
 ```python
-python main.py --root PATH/TO/DATASET/ROOT/ --st 1 --save_check
+python main.py --root PATH-TO-DATASET-ROOT/ --st 1 --save_check
 ```
 
 Results will be saved at 
