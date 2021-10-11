@@ -1,6 +1,5 @@
-## MiCo: Mixup Co-training for Semi-supervised Domain Adaptation
+## DeCoTa: Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation
 
-### This is a private repository. Without consulting the owner, please do not distribute or publish yet.
 
 <img src="https://github.com/LoyoYang/mico/blob/master/comparison.png" width="400">
 
