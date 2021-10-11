@@ -1,6 +1,5 @@
 ## Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation
-
-<span style="color:red">some *blue* text</span>.
+##De##ep ##Co## 
 
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
