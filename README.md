@@ -1,7 +1,7 @@
 ## DeCoTa: Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation
 
 
-<img src="https://github.com/LoyoYang/mico/blob/master/comparison.png" width="400">
+<img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
 
 ### Requirements
