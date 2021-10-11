@@ -1,5 +1,5 @@
-## **De**ep **Co**-Training with **Ta**sk Decomposition for Semi-Supervised Domain Adaptation [arxiv](https://arxiv.org/abs/2007.12684)
-:fire: **ICCV 2021
+## Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation [arxiv](https://arxiv.org/abs/2007.12684)
+:fire: **ICCV 2021**
 
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
