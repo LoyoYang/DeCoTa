@@ -1,4 +1,6 @@
 ## **De**ep **Co**-Training with **Ta**sk Decomposition for Semi-Supervised Domain Adaptation
+<\br>
+**De**ep **Co**-Training with **Ta**sk
 
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
