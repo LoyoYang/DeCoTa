@@ -1,7 +1,7 @@
 ## **De**ep **Co**-Training with **Ta**sk Decomposition for Semi-Supervised Domain Adaptation
 :fire:
 
-**De**ep **Co**-Training with **Ta**sk
+**De**ep **Co**-Training with **Ta**sk for SSDA [arxiv](https://arxiv.org/abs/2007.12684)
 
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
