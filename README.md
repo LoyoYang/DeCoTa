@@ -1,5 +1,4 @@
-## Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation
-##De##ep ##Co## 
+## **De**ep **Co**-Training with **Ta**sk Decomposition for Semi-Supervised Domain Adaptation
 
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
@@ -10,14 +9,14 @@ The code is developed under Python 3.6.5 and PyTorch 1.4.0
 To install,
 ```pip install -r requirements.txt```
 
-### Prepare Dataset
+### Prepare dataset
 To reproduce the DomainNet results, download DomainNet from http://ai.bu.edu/M3SDA/ following the instructions on the page.
 
 Your dataset root is expected to contain folders named after all the domains, for example: 
 
 ```PATH-TO-DATASET-ROOT/clipart```
 
-### Train your own MiCo
+### Train your own model
 There are seven adaptation scenarios.
 
 Specify the Source and Target domain by either
