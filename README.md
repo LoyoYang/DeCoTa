@@ -4,9 +4,6 @@
 <br />
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
 
-<br />
-<br />
-
 ### Requirements
 The code is developed under Python 3.6.5 and PyTorch 1.4.0
 
@@ -14,7 +11,7 @@ To install,
 ```pip install -r requirements.txt```
 
 <br />
-<br />
+
 ### Prepare dataset
 To reproduce the DomainNet results, download DomainNet from http://ai.bu.edu/M3SDA/ following the instructions on the page.
 
@@ -23,7 +20,7 @@ Your dataset root is expected to contain folders named after all the domains, fo
 ```PATH-TO-DATASET-ROOT/clipart```
 
 <br />
-<br />
+
 ### Train your own model
 There are seven adaptation scenarios.
 
@@ -44,7 +41,7 @@ Checkpoint will be saved at
 
 
 <br />
-<br />
+
 ### Eval
 
 Example to evaluate a saved model at iteration 20000 from ```./checkpoint```, from *Real* to *Clipart*:
