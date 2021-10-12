@@ -1,4 +1,4 @@
-## Code Release: Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation [arxiv](https://arxiv.org/abs/2007.12684)
+## Implementation of DeCoTa: Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation [arxiv](https://arxiv.org/abs/2007.12684)
 :fire: **ICCV 2021**
 <br />
 <br />
