@@ -11,10 +11,10 @@ from utils.lr_schedule import inv_lr_scheduler
 from utils.return_dataset import return_dataset
 
 
-parser = argparse.ArgumentParser(description='Mixup Co-training for Semi-supervised Domain Adaptation')
-parser.add_argument('--steps', type=int, default=50000, metavar='N',
+parser = argparse.ArgumentParser(description='DeCoTa, previously MiCo, for Semi-supervised Domain Adaptation')
+parser.add_argument('--steps', type=int, default=20000, metavar='N',
                     help='maximum number of iterations '
-                         'to train (default: 50000)')
+                         'to train (default: 20000)')
 parser.add_argument('--method', type=str, default='mico',
                     choices=['mico', 'mist'])
 parser.add_argument('--lr', type=float, default=0.01, metavar='LR',
