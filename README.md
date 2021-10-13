@@ -22,7 +22,7 @@ Your dataset root is expected to contain folders named after all the domains, fo
 <br />
 
 ### Train your own model
-There are seven adaptation scenarios.
+There are seven adaptation scenarios in the DomainNet experiment.
 
 Specify the Source and Target domain by either
 
