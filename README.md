@@ -1,5 +1,5 @@
-## Implementation of DeCoTa: [Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2007.12684)
-:fire: **ICCV 2021**
+## [ICCV21: Deep Co-Training with Task Decomposition for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2007.12684)
+
 <br />
 <br />
 <img src="https://github.com/LoyoYang/mico/blob/master/overall_framework.png" width="500">
