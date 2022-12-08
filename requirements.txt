@@ -1,4 +1,4 @@
-certifi==2020.4.5.1
+certifi==2022.12.7
 easydict==1.8
 image==1.5.24
 numpy==1.18.1
